@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Yasindu Sanjeewa</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 <a href="https://freeimage.host/i/H1D2LMJ"><img src="https://iili.io/H1D2LMJ.md.jpg" align="right" alt="H1D2LMJ.md.jpg" width="350" height="200" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br />
- :school_satchel: I’m studying at the Faculty of computing and technology at the University of Kelaniya<br />
+ :school_satchel: I’m currently studying at the Faculty of computing and technology at the University of Kelaniya<br />
  :satellite: I’m interested in new Technologies and Frameworks<br />
  🌱 I’m currently learning everything that I can
 
