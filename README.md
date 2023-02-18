@@ -3,7 +3,7 @@
 <a href="https://freeimage.host/i/H1D2LMJ"><img src="https://iili.io/H1D2LMJ.md.jpg" align="right" alt="H1D2LMJ.md.jpg" width="350" height="200" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br /><br />
  :school_satchel: I’m currently studying at the Faculty of computing and technology at the University of Kelaniya<br />
  :satellite: I’m interested in new Technologies and Frameworks<br />
- 🌱 I’m currently learning everything that I can<br />
+ 🌱 I’m currently learning everything that I can<br /><br />
 
 
 <h3 align="left">💻 Languages and Tools</h3>
