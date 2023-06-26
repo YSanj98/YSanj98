@@ -12,7 +12,7 @@
 
 <h3 align="left">📊 Git Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=YSanj98&theme=swift&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=YSanj98&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <h3 align="right">🌐 Connect With Me</h3>
 <p align="right">
@@ -20,7 +20,5 @@
 <a href="https://stackoverflow.com/users/21017884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21017884" height="30" width="40" /></a>
 <a href="https://www.facebook.com/yasindu.sanjeewa.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasindu sanjeewa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yasindusanjeewa8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yasindusanjeewa8" height="30" width="40" /></a></p>
-
-
 
 ---
