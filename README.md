@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Yasindu Sanjeewa</h1>
-[![An image of @ysanj98's Holopin badges](https://holopin.me/ysanj98)](https://holopin.io/@ysanj98)
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 <a href="https://freeimage.host/i/H1D2LMJ"><img src="https://iili.io/H1D2LMJ.md.jpg" align="right" alt="H1D2LMJ.md.jpg" width="350" height="200" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br /><br />
  :school_satchel: I’m currently studying at the Faculty of computing and technology at the University of Kelaniya<br />
