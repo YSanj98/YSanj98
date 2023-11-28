@@ -18,6 +18,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=YSanj98&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+![](https://raw.githubusercontent.com/YSanj98/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <h3 align="right">🌐 Connect With Me</h3>
 <p align="right">
 <a href="https://linkedin.com/in/yasindu-sanjeewa-a79783202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasindu-sanjeewa-a79783202" height="30" width="40" /></a>
