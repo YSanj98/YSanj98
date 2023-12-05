@@ -16,9 +16,9 @@
 
 <h3 align="left">📊 Git Stats</h3>
 
-<!--![](https://github-readme-stats.vercel.app/api?username=YSanj98&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)-->
-![](https://raw.githubusercontent.com/YSanj98/git-stats/master/generated/overview.svg#gh-light-mode-only)
-![Stats Card](https://raw.githubusercontent.com/YSanj98/git-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=YSanj98&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)
+<!--![](https://raw.githubusercontent.com/YSanj98/git-stats/master/generated/overview.svg#gh-light-mode-only) -->
+<!--![Stats Card](https://raw.githubusercontent.com/YSanj98/git-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
 <h3 align="right">🌐 Connect With Me</h3>
 <p align="right">
